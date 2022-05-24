@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and science
 - 🌱 I’m currently learning distributed systems and system design
 - 💞️ I’m looking to collaborate on fun open source projects, brand new startup ideas.
-- 📫 You can reach me at [website](https://ravikaushish.com)
+- 📫 You can reach me at [ravikaushish](https://ravikaushish.com)
 
 <!---
 ravi-kaushish/ravi-kaushish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
